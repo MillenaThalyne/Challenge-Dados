@@ -1,10 +1,12 @@
 # Challenge Dados
 Esse projeto é desenvolvido através do Challenge de Ciência de Dados da Alura. 
-Data de início: 29/08/22
-Linguagem utilizada: Python 
-Banco de dados: MySQL
 
-#Adicionando Banco de Dados Tratado no Workbench - Semana 1
+> Data de início: 29/08/22
+> Linguagem utilizada: Python 
+> Banco de dados: MySQL
+
+# Adicionando Banco de Dados Tratado no Workbench 
+## Semana 1
 
 Nessa primeira semana, comecei a organizar os passos que deveriam ser feitos com os dados. Notei algumas inconsistências: dados nulos, dados incertos e incoerentes, além de visivelmente não terem algum critério de organização. 
 Minha primeira contribuição foi visualizar a situação, o que os dados queriam me dizer. Dessa forma, descobri que tínhamos informações de inúmeras pessoas, suas condições financeiras, quanto tempo trabalhavam na empresa e se elas já haviam sido inadimplentes no passado. Além de ter a discrição de empréstimos e suas finalidades.
