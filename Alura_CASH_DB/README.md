@@ -1,6 +1,6 @@
-# Adicionando Banco de Dados Tratado no Workbench 
+# Semana 1 
 
-## Semana 1 
+## Adicionando Banco de Dados e Tratado no Workbench
 
 Nessa primeira semana, comecei a organizar os passos que deveriam ser feitos com os dados. Notei algumas inconsistências: 
 dados nulos, dados incertos e incoerentes, além de visivelmente não terem algum critério de organização. 
