@@ -1,6 +1,6 @@
-#Adicionando Banco de Dados Tratado no Workbench 
+# Adicionando Banco de Dados Tratado no Workbench 
 
-##Semana 1 
+## Semana 1 
 
 Nessa primeira semana, comecei a organizar os passos que deveriam ser feitos com os dados. Notei algumas inconsistências: 
 dados nulos, dados incertos e incoerentes, além de visivelmente não terem algum critério de organização. 
@@ -14,3 +14,5 @@ dados correspondente às pessoas. Exportei para CSV e a primeira semana do desaf
 
 
 ![Workbench](https://user-images.githubusercontent.com/72171977/188935290-b10dd28a-c7da-408f-a33b-1a5bf9f1a9c2.png)
+
+Alura_CASH_DB/Alura_CASH.ipynb
