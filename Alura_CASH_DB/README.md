@@ -1,4 +1,6 @@
-Adicionando Banco de Dados Tratado no Workbench - Semana 1 
+#Adicionando Banco de Dados Tratado no Workbench 
+
+##Semana 1 
 
 Nessa primeira semana, comecei a organizar os passos que deveriam ser feitos com os dados. Notei algumas inconsistências: 
 dados nulos, dados incertos e incoerentes, além de visivelmente não terem algum critério de organização. 
@@ -10,4 +12,5 @@ sendo inadimplentes ou terão a intenção no futuro.
 Uni as tabelas a partir do campo entre elas em comum (ID), utilizando a tabela IDS, usando INNER JOIN. Agora possuo todos os 
 dados correspondente às pessoas. Exportei para CSV e a primeira semana do desafio está concluída! 🚀🔥 
 
-https://github.com/MillenaThalyne/Challenge-Dados/blob/53b8838ef10382ad1434546423b54313a7d88ff2/Imagens/Workbench.png
+
+![Workbench](https://user-images.githubusercontent.com/72171977/188935290-b10dd28a-c7da-408f-a33b-1a5bf9f1a9c2.png)
