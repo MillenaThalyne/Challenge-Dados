@@ -10,3 +10,4 @@ sendo inadimplentes ou terão a intenção no futuro.
 Uni as tabelas a partir do campo entre elas em comum (ID), utilizando a tabela IDS, usando INNER JOIN. Agora possuo todos os 
 dados correspondente às pessoas. Exportei para CSV e a primeira semana do desafio está concluída! 🚀🔥 
 
+https://github.com/MillenaThalyne/Challenge-Dados/blob/53b8838ef10382ad1434546423b54313a7d88ff2/Imagens/Workbench.png
