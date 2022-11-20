@@ -1,11 +1,15 @@
 # Challenge Dados
 Esse projeto é desenvolvido através do Challenge de Ciência de Dados da Alura. 
+Este tem como objetivo fazer a classificação de pessoas inadimplentes da empresa Alura Cash, através de um modelo de Machine Learning.
+Ele será desenvolvido através da base de dados disponibilizada pela Alura, porém eu farei o tratamento dos dados e todo o resto do projeto sozinha.
 
 > **Data de início** : 29/08/22 
 
 > **Linguagem utilizada** : Python 
 
 > **Banco de dados** : MySQL
+
+> **Visualização de dados** : Power BI
 
 # Semana 1
 ## Adicionando Banco de Dados e Tratando no Workbench 
